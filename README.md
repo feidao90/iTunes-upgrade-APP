@@ -18,3 +18,4 @@ http://itunes.apple.com/lookup?id=xxx
         "version" = "版本号"
     }]
 }
+目前，暂时没有发现针对强制升级字段！！！
